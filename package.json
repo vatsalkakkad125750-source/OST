@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsalkakkad125750-source/OST.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vatsalkakkad125750-source/OST/issues"
+  },
+  "homepage": "https://github.com/vatsalkakkad125750-source/OST#readme",
+  "description": ""
 }
